@@ -2,7 +2,7 @@
 
 This is a simple typing application built with [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) that allows users to measure their typing speed by typing words in English or Turkish as quickly as possible for one minute
 
-## See Live : [Here]()
+## See Live : [Here](https://typing-speed-app-seven.vercel.app/)
 
 ## Features
 
